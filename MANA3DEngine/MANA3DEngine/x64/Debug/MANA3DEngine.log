@@ -1,0 +1,131 @@
+﻿  Application.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Application.h(4,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  Camera.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Color.cpp
+  CommandManager.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Component.cpp
+  CubemapImporter.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Application.h(4,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  Debug.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  DirectionalLight.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Editor3DGrid.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Editor3DCamera.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Screen.h(5,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  EditorGuiAssetsWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\ImGuiManager.h(5,10): fatal error C1083: Cannot open include file: 'ImGui\imgui.h': No such file or directory
+  EditorGuiLogWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiLogWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  EditorGuiSettingsWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\ImGuiManager.h(5,10): fatal error C1083: Cannot open include file: 'ImGui\imgui.h': No such file or directory
+  FPSCameraController.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  GameObject.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  GraphicSettings.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ImGuiManager.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\ImGuiManager.h(5,10): fatal error C1083: Cannot open include file: 'ImGui\imgui.h': No such file or directory
+  Input.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Input.h(4,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  Joint.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Joint.h(6,10): fatal error C1083: Cannot open include file: 'assimp/matrix4x4.h': No such file or directory
+  KeyFrame.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\KeyFrame.h(4,10): fatal error C1083: Cannot open include file: 'assimp/anim.h': No such file or directory
+  Generating Code...
+  Compiling...
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Libraries\include\ImGUI\imgui_impl_glfw.cpp(39,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  imgui_impl_opengl3.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Libraries\include\ImGUI\imgui_impl_opengl3.cpp(92,10): fatal error C1083: Cannot open include file: 'GL3W/gl3w.h': No such file or directory
+  imgui_widgets.cpp
+  Light.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Main.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Main.cpp(5,10): fatal error C1083: Cannot open include file: 'stb_image.h': No such file or directory
+  EditorGuiManager.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\ImGuiManager.h(5,10): fatal error C1083: Cannot open include file: 'ImGui\imgui.h': No such file or directory
+  EditorGuiAssetsOverviewWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  EditorGuiInspectorWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  EditorGuiMenuBar.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  EditorGuiSceneHierarchyWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  EditorGuiSceneWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  EditorGuiToolBar.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  EditorGuiUtilitesWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  EditorGuiWindow.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\EditorGuiWindow.h(4,10): fatal error C1083: Cannot open include file: 'ImGui/imgui.h': No such file or directory
+  Editor3DSceneManager.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\ImGuiManager.h(5,10): fatal error C1083: Cannot open include file: 'ImGui\imgui.h': No such file or directory
+  MANA3DFramework.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Application.h(4,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  MANA3DEngine.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\MANA3DEngine.h(4,10): fatal error C1083: Cannot open include file: 'glad\glad.h': No such file or directory
+  Generating Code...
+  Compiling...
+  Animation.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\KeyFrame.h(4,10): fatal error C1083: Cannot open include file: 'assimp/anim.h': No such file or directory
+  Math3D.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MCube.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MCubemap.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MeshRenderer.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MMaterial.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MMesh.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\MMesh.h(7,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Model3DImporter.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Model3DImporter.h(7,10): fatal error C1083: Cannot open include file: 'assimp/Importer.hpp': No such file or directory
+  MPrimitive.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MRectangle.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MShader.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MSkinnedMesh.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\MMesh.h(7,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MString.cpp
+  MTexture.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\MANA3DEngine.h(4,10): fatal error C1083: Cannot open include file: 'glad\glad.h': No such file or directory
+  PointLight.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Renderer.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  SceneManager.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Screen.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Screen.h(5,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  Skeleton.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Joint.h(6,10): fatal error C1083: Cannot open include file: 'assimp/matrix4x4.h': No such file or directory
+  SkinnedMeshRenderer.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Generating Code...
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\MString.cpp(364): warning C4172: returning address of local variable or temporary: wc
+  Compiling...
+  Skybox.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Application.h(4,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  SpotLight.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Texture2DImporter.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Application.h(4,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  Time.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Time.cpp(4,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  Transform.cpp
+C:\Users\Mahmoud\Documents\GitHub\MANA_3D_Game_Engine_Public\MANA3DEngine\MANA3DEngine\Math3D.h(4,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Generating Code...

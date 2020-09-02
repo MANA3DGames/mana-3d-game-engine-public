@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{7C0A5985-A95D-4A81-969A-F2198223BC83}</ProjectGuid>
+    <RootNamespace>MANA3DEngine</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>..\\MANA3DEngine\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>..\\MANA3DEngine\Libraries\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>GLFW_INCLUDE_NONE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>..\\MANA3DEngine\Libraries\include;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>assimp-vc140-mt.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Application.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Color.cpp" />
+    <ClCompile Include="CommandManager.cpp" />
+    <ClCompile Include="Component.cpp" />
+    <ClCompile Include="CubemapImporter.cpp" />
+    <ClCompile Include="Debug.cpp" />
+    <ClCompile Include="DirectionalLight.cpp" />
+    <ClCompile Include="Editor3DGrid.cpp" />
+    <ClCompile Include="Editor3DCamera.cpp" />
+    <ClCompile Include="EditorGuiAssetsWindow.cpp" />
+    <ClCompile Include="EditorGuiLogWindow.cpp" />
+    <ClCompile Include="EditorGuiSettingsWindow.cpp" />
+    <ClCompile Include="FPSCameraController.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="GraphicSettings.cpp" />
+    <ClCompile Include="ImGuiManager.cpp" />
+    <ClCompile Include="Input.cpp" />
+    <ClCompile Include="Joint.cpp" />
+    <ClCompile Include="KeyFrame.cpp" />
+    <ClCompile Include="Libraries\include\GL3W\gl3w.c" />
+    <ClCompile Include="Libraries\include\ImGUI\imgui.cpp" />
+    <ClCompile Include="Libraries\include\ImGUI\imgui_demo.cpp" />
+    <ClCompile Include="Libraries\include\ImGUI\imgui_draw.cpp" />
+    <ClCompile Include="Libraries\include\ImGUI\imgui_impl_glfw.cpp" />
+    <ClCompile Include="Libraries\include\ImGUI\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="Libraries\include\ImGUI\imgui_widgets.cpp" />
+    <ClCompile Include="Libraries\src\glad.c" />
+    <ClCompile Include="Light.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="EditorGuiManager.cpp" />
+    <ClCompile Include="EditorGuiAssetsOverviewWindow.cpp" />
+    <ClCompile Include="EditorGuiInspectorWindow.cpp" />
+    <ClCompile Include="EditorGuiMenuBar.cpp" />
+    <ClCompile Include="EditorGuiSceneHierarchyWindow.cpp" />
+    <ClCompile Include="EditorGuiSceneWindow.cpp" />
+    <ClCompile Include="EditorGuiToolBar.cpp" />
+    <ClCompile Include="EditorGuiUtilitesWindow.cpp" />
+    <ClCompile Include="EditorGuiWindow.cpp" />
+    <ClCompile Include="Editor3DSceneManager.cpp" />
+    <ClCompile Include="MANA3DFramework.cpp" />
+    <ClCompile Include="MANA3DEngine.cpp" />
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="Math3D.cpp" />
+    <ClCompile Include="MCube.cpp" />
+    <ClCompile Include="MCubemap.cpp" />
+    <ClCompile Include="MeshRenderer.cpp" />
+    <ClCompile Include="MMaterial.cpp" />
+    <ClCompile Include="MMesh.cpp" />
+    <ClCompile Include="Model3DImporter.cpp" />
+    <ClCompile Include="MPrimitive.cpp" />
+    <ClCompile Include="MRectangle.cpp" />
+    <ClCompile Include="MShader.cpp" />
+    <ClCompile Include="MSkinnedMesh.cpp" />
+    <ClCompile Include="MString.cpp" />
+    <ClCompile Include="MTexture.cpp" />
+    <ClCompile Include="PointLight.cpp" />
+    <ClCompile Include="Renderer.cpp" />
+    <ClCompile Include="SceneManager.cpp" />
+    <ClCompile Include="Screen.cpp" />
+    <ClCompile Include="Skeleton.cpp" />
+    <ClCompile Include="SkinnedMeshRenderer.cpp" />
+    <ClCompile Include="Skybox.cpp" />
+    <ClCompile Include="SpotLight.cpp" />
+    <ClCompile Include="Texture2DImporter.cpp" />
+    <ClCompile Include="Time.cpp" />
+    <ClCompile Include="Transform.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CameraEnum.h" />
+    <ClInclude Include="Color.h" />
+    <ClInclude Include="Command.h" />
+    <ClInclude Include="CommandManager.h" />
+    <ClInclude Include="Component.h" />
+    <ClInclude Include="CubemapImporter.h" />
+    <ClInclude Include="Debug.h" />
+    <ClInclude Include="DirectionalLight.h" />
+    <ClInclude Include="Editor3DGrid.h" />
+    <ClInclude Include="Editor3DCamera.h" />
+    <ClInclude Include="EditorGuiAssetsWindow.h" />
+    <ClInclude Include="EditorGuiLogWindow.h" />
+    <ClInclude Include="EditorGuiSettingsWindow.h" />
+    <ClInclude Include="FPSCameraController.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="GraphicSettings.h" />
+    <ClInclude Include="ImGuiManager.h" />
+    <ClInclude Include="Input.h" />
+    <ClInclude Include="Joint.h" />
+    <ClInclude Include="KeyFrame.h" />
+    <ClInclude Include="Libraries\include\dirent.h" />
+    <ClInclude Include="Libraries\include\GL3W\gl3w.h" />
+    <ClInclude Include="Libraries\include\GL3W\glcorearb.h" />
+    <ClInclude Include="Libraries\include\ImGUI\imconfig.h" />
+    <ClInclude Include="Libraries\include\ImGUI\imgui.h" />
+    <ClInclude Include="Libraries\include\ImGUI\imgui_impl_glfw.h" />
+    <ClInclude Include="Libraries\include\ImGUI\imgui_impl_opengl3.h" />
+    <ClInclude Include="Libraries\include\ImGUI\imgui_internal.h" />
+    <ClInclude Include="Libraries\include\ImGUI\imstb_rectpack.h" />
+    <ClInclude Include="Libraries\include\ImGUI\imstb_textedit.h" />
+    <ClInclude Include="Libraries\include\ImGUI\imstb_truetype.h" />
+    <ClInclude Include="Libraries\include\stb_image.h" />
+    <ClInclude Include="Light.h" />
+    <ClInclude Include="EditorGuiAssetsOverviewWindow.h" />
+    <ClInclude Include="EditorGuiInspectorWindow.h" />
+    <ClInclude Include="EditorGuiMenuBar.h" />
+    <ClInclude Include="EditorGuiSceneHierarchyWindow.h" />
+    <ClInclude Include="EditorGuiSceneWindow.h" />
+    <ClInclude Include="EditorGuiToolBar.h" />
+    <ClInclude Include="EditorGuiUtilitesWindow.h" />
+    <ClInclude Include="EditorGuiWindow.h" />
+    <ClInclude Include="Editor3DSceneManager.h" />
+    <ClInclude Include="MANA3DFramework.h" />
+    <ClInclude Include="EditorGuiManager.h" />
+    <ClInclude Include="MANA3DEngine.h" />
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="Math3D.h" />
+    <ClInclude Include="MCube.h" />
+    <ClInclude Include="MCubemap.h" />
+    <ClInclude Include="MeshRenderer.h" />
+    <ClInclude Include="MFile.h" />
+    <ClInclude Include="MMaterial.h" />
+    <ClInclude Include="MMesh.h" />
+    <ClInclude Include="Model3DImporter.h" />
+    <ClInclude Include="MPrimitive.h" />
+    <ClInclude Include="MRectangle.h" />
+    <ClInclude Include="MShader.h" />
+    <ClInclude Include="MSkinnedMesh.h" />
+    <ClInclude Include="MString.h" />
+    <ClInclude Include="MTexture.h" />
+    <ClInclude Include="PointLight.h" />
+    <ClInclude Include="Renderer.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SceneManager.h" />
+    <ClInclude Include="Screen.h" />
+    <ClInclude Include="Skeleton.h" />
+    <ClInclude Include="SkinnedMeshRenderer.h" />
+    <ClInclude Include="Skybox.h" />
+    <ClInclude Include="SpotLight.h" />
+    <ClInclude Include="Texture2DImporter.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="Transform.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MANA3DEngine.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

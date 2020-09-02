@@ -1,0 +1,1120 @@
+﻿1>------ Build started: Project: MANA3DEngine, Configuration: Debug Win32 ------
+1>Camera.cpp
+1>Component.cpp
+1>Debug.cpp
+1>DirectionalLight.cpp
+1>EditorCamera.cpp
+1>FPSCameraController.cpp
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\fpscameracontroller.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\fpscameracontroller.cpp(54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\fpscameracontroller.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\fpscameracontroller.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\fpscameracontroller.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\fpscameracontroller.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\fpscameracontroller.cpp(63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>GameObject.cpp
+1>Light.cpp
+1>MANA3DEditorGUI.cpp
+1>MANA3DFramework.cpp
+1>c:\program files (x86)\windows kits\10\include\10.0.14393.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glfw3.h(98): note: see previous definition of 'APIENTRY'
+1>MANA3DMain.cpp
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(723): warning C4005: 'glActiveShaderProgram': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4329): note: see previous definition of 'glActiveShaderProgram'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(724): warning C4005: 'glActiveTexture': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2972): note: see previous definition of 'glActiveTexture'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(725): warning C4005: 'glAttachShader': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3335): note: see previous definition of 'glAttachShader'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(726): warning C4005: 'glBeginConditionalRender': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3664): note: see previous definition of 'glBeginConditionalRender'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(727): warning C4005: 'glBeginQuery': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3268): note: see previous definition of 'glBeginQuery'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(728): warning C4005: 'glBeginQueryIndexed': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4289): note: see previous definition of 'glBeginQueryIndexed'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(729): warning C4005: 'glBeginTransformFeedback': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3643): note: see previous definition of 'glBeginTransformFeedback'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(730): warning C4005: 'glBindAttribLocation': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3338): note: see previous definition of 'glBindAttribLocation'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(731): warning C4005: 'glBindBuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3283): note: see previous definition of 'glBindBuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(732): warning C4005: 'glBindBufferBase': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3652): note: see previous definition of 'glBindBufferBase'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(733): warning C4005: 'glBindBufferRange': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3649): note: see previous definition of 'glBindBufferRange'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(734): warning C4005: 'glBindBuffersBase': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4752): note: see previous definition of 'glBindBuffersBase'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(735): warning C4005: 'glBindBuffersRange': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4755): note: see previous definition of 'glBindBuffersRange'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(736): warning C4005: 'glBindFragDataLocation': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3742): note: see previous definition of 'glBindFragDataLocation'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(737): warning C4005: 'glBindFragDataLocationIndexed': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3982): note: see previous definition of 'glBindFragDataLocationIndexed'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(738): warning C4005: 'glBindFramebuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3820): note: see previous definition of 'glBindFramebuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(739): warning C4005: 'glBindImageTexture': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4585): note: see previous definition of 'glBindImageTexture'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(740): warning C4005: 'glBindImageTextures': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4764): note: see previous definition of 'glBindImageTextures'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(741): warning C4005: 'glBindProgramPipeline': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4335): note: see previous definition of 'glBindProgramPipeline'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(742): warning C4005: 'glBindRenderbuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3802): note: see previous definition of 'glBindRenderbuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(743): warning C4005: 'glBindSampler': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3997): note: see previous definition of 'glBindSampler'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(744): warning C4005: 'glBindSamplers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4761): note: see previous definition of 'glBindSamplers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(745): warning C4005: 'glBindTexture': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2892): note: see previous definition of 'glBindTexture'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(747): warning C4005: 'glBindTextures': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4758): note: see previous definition of 'glBindTextures'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(748): warning C4005: 'glBindTransformFeedback': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4265): note: see previous definition of 'glBindTransformFeedback'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(749): warning C4005: 'glBindVertexArray': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3865): note: see previous definition of 'glBindVertexArray'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(750): warning C4005: 'glBindVertexBuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4691): note: see previous definition of 'glBindVertexBuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(751): warning C4005: 'glBindVertexBuffers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4767): note: see previous definition of 'glBindVertexBuffers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(752): warning C4005: 'glBlendColor': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3249): note: see previous definition of 'glBlendColor'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(753): warning C4005: 'glBlendEquation': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3252): note: see previous definition of 'glBlendEquation'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(754): warning C4005: 'glBlendEquationSeparate': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3320): note: see previous definition of 'glBlendEquationSeparate'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(755): warning C4005: 'glBlendEquationSeparatei': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4166): note: see previous definition of 'glBlendEquationSeparatei'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(756): warning C4005: 'glBlendEquationi': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4163): note: see previous definition of 'glBlendEquationi'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(757): warning C4005: 'glBlendFunc': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2015): note: see previous definition of 'glBlendFunc'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(758): warning C4005: 'glBlendFuncSeparate': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3114): note: see previous definition of 'glBlendFuncSeparate'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(759): warning C4005: 'glBlendFuncSeparatei': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4172): note: see previous definition of 'glBlendFuncSeparatei'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(760): warning C4005: 'glBlendFunci': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4169): note: see previous definition of 'glBlendFunci'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(761): warning C4005: 'glBlitFramebuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3850): note: see previous definition of 'glBlitFramebuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(763): warning C4005: 'glBufferData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3295): note: see previous definition of 'glBufferData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(764): warning C4005: 'glBufferStorage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4743): note: see previous definition of 'glBufferStorage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(765): warning C4005: 'glBufferSubData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3298): note: see previous definition of 'glBufferSubData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(766): warning C4005: 'glCheckFramebufferStatus': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3829): note: see previous definition of 'glCheckFramebufferStatus'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(768): warning C4005: 'glClampColor': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3661): note: see previous definition of 'glClampColor'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(769): warning C4005: 'glClear': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1982): note: see previous definition of 'glClear'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(770): warning C4005: 'glClearBufferData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4610): note: see previous definition of 'glClearBufferData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(771): warning C4005: 'glClearBufferSubData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4613): note: see previous definition of 'glClearBufferSubData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(772): warning C4005: 'glClearBufferfi': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3793): note: see previous definition of 'glClearBufferfi'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(773): warning C4005: 'glClearBufferfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3790): note: see previous definition of 'glClearBufferfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(774): warning C4005: 'glClearBufferiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3784): note: see previous definition of 'glClearBufferiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(775): warning C4005: 'glClearBufferuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3787): note: see previous definition of 'glClearBufferuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(776): warning C4005: 'glClearColor': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1985): note: see previous definition of 'glClearColor'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(777): warning C4005: 'glClearDepth': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1991): note: see previous definition of 'glClearDepth'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(778): warning C4005: 'glClearDepthf': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4314): note: see previous definition of 'glClearDepthf'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(785): warning C4005: 'glClearStencil': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1988): note: see previous definition of 'glClearStencil'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(786): warning C4005: 'glClearTexImage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4746): note: see previous definition of 'glClearTexImage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(787): warning C4005: 'glClearTexSubImage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4749): note: see previous definition of 'glClearTexSubImage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(788): warning C4005: 'glClientWaitSync': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3945): note: see previous definition of 'glClientWaitSync'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(790): warning C4005: 'glColorMask': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1997): note: see previous definition of 'glColorMask'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(791): warning C4005: 'glColorMaski': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3625): note: see previous definition of 'glColorMaski'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(792): warning C4005: 'glCompileShader': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3341): note: see previous definition of 'glCompileShader'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(793): warning C4005: 'glCompressedTexImage1D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2984): note: see previous definition of 'glCompressedTexImage1D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(794): warning C4005: 'glCompressedTexImage2D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2981): note: see previous definition of 'glCompressedTexImage2D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(795): warning C4005: 'glCompressedTexImage3D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2978): note: see previous definition of 'glCompressedTexImage3D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(796): warning C4005: 'glCompressedTexSubImage1D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2993): note: see previous definition of 'glCompressedTexSubImage1D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(797): warning C4005: 'glCompressedTexSubImage2D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2990): note: see previous definition of 'glCompressedTexSubImage2D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(798): warning C4005: 'glCompressedTexSubImage3D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2987): note: see previous definition of 'glCompressedTexSubImage3D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(802): warning C4005: 'glCopyBufferSubData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3893): note: see previous definition of 'glCopyBufferSubData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(803): warning C4005: 'glCopyImageSubData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4622): note: see previous definition of 'glCopyImageSubData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(805): warning C4005: 'glCopyTexImage1D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2874): note: see previous definition of 'glCopyTexImage1D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(806): warning C4005: 'glCopyTexImage2D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2877): note: see previous definition of 'glCopyTexImage2D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(807): warning C4005: 'glCopyTexSubImage1D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2880): note: see previous definition of 'glCopyTexSubImage1D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(808): warning C4005: 'glCopyTexSubImage2D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2883): note: see previous definition of 'glCopyTexSubImage2D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(809): warning C4005: 'glCopyTexSubImage3D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2965): note: see previous definition of 'glCopyTexSubImage3D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(815): warning C4005: 'glCreateProgram': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3344): note: see previous definition of 'glCreateProgram'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(820): warning C4005: 'glCreateShader': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3347): note: see previous definition of 'glCreateShader'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(821): warning C4005: 'glCreateShaderProgramv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4332): note: see previous definition of 'glCreateShaderProgramv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(825): warning C4005: 'glCullFace': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1940): note: see previous definition of 'glCullFace'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(826): warning C4005: 'glDebugMessageCallback': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4715): note: see previous definition of 'glDebugMessageCallback'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(827): warning C4005: 'glDebugMessageControl': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4709): note: see previous definition of 'glDebugMessageControl'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(828): warning C4005: 'glDebugMessageInsert': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4712): note: see previous definition of 'glDebugMessageInsert'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(829): warning C4005: 'glDeleteBuffers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3286): note: see previous definition of 'glDeleteBuffers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(830): warning C4005: 'glDeleteFramebuffers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3823): note: see previous definition of 'glDeleteFramebuffers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(831): warning C4005: 'glDeleteProgram': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3350): note: see previous definition of 'glDeleteProgram'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(832): warning C4005: 'glDeleteProgramPipelines': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4338): note: see previous definition of 'glDeleteProgramPipelines'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(833): warning C4005: 'glDeleteQueries': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3262): note: see previous definition of 'glDeleteQueries'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(834): warning C4005: 'glDeleteRenderbuffers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3805): note: see previous definition of 'glDeleteRenderbuffers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(835): warning C4005: 'glDeleteSamplers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3991): note: see previous definition of 'glDeleteSamplers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(836): warning C4005: 'glDeleteShader': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3353): note: see previous definition of 'glDeleteShader'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(837): warning C4005: 'glDeleteSync': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3942): note: see previous definition of 'glDeleteSync'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(838): warning C4005: 'glDeleteTextures': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2895): note: see previous definition of 'glDeleteTextures'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(839): warning C4005: 'glDeleteTransformFeedbacks': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4268): note: see previous definition of 'glDeleteTransformFeedbacks'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(840): warning C4005: 'glDeleteVertexArrays': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3868): note: see previous definition of 'glDeleteVertexArrays'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(841): warning C4005: 'glDepthFunc': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2027): note: see previous definition of 'glDepthFunc'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(842): warning C4005: 'glDepthMask': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2000): note: see previous definition of 'glDepthMask'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(843): warning C4005: 'glDepthRange': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2078): note: see previous definition of 'glDepthRange'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(844): warning C4005: 'glDepthRangeArrayv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4554): note: see previous definition of 'glDepthRangeArrayv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(845): warning C4005: 'glDepthRangeIndexed': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4557): note: see previous definition of 'glDepthRangeIndexed'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(846): warning C4005: 'glDepthRangef': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4311): note: see previous definition of 'glDepthRangef'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(847): warning C4005: 'glDetachShader': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3356): note: see previous definition of 'glDetachShader'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(848): warning C4005: 'glDisable': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2003): note: see previous definition of 'glDisable'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(850): warning C4005: 'glDisableVertexAttribArray': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3359): note: see previous definition of 'glDisableVertexAttribArray'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(851): warning C4005: 'glDisablei': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3637): note: see previous definition of 'glDisablei'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(852): warning C4005: 'glDispatchCompute': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4616): note: see previous definition of 'glDispatchCompute'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(853): warning C4005: 'glDispatchComputeIndirect': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4619): note: see previous definition of 'glDispatchComputeIndirect'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(854): warning C4005: 'glDrawArrays': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2862): note: see previous definition of 'glDrawArrays'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(855): warning C4005: 'glDrawArraysIndirect': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4175): note: see previous definition of 'glDrawArraysIndirect'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(856): warning C4005: 'glDrawArraysInstanced': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3881): note: see previous definition of 'glDrawArraysInstanced'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(857): warning C4005: 'glDrawArraysInstancedBaseInstance': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4570): note: see previous definition of 'glDrawArraysInstancedBaseInstance'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(858): warning C4005: 'glDrawBuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1979): note: see previous definition of 'glDrawBuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(859): warning C4005: 'glDrawBuffers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3323): note: see previous definition of 'glDrawBuffers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(860): warning C4005: 'glDrawElements': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2865): note: see previous definition of 'glDrawElements'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(861): warning C4005: 'glDrawElementsBaseVertex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3921): note: see previous definition of 'glDrawElementsBaseVertex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(862): warning C4005: 'glDrawElementsIndirect': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4178): note: see previous definition of 'glDrawElementsIndirect'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(863): warning C4005: 'glDrawElementsInstanced': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3884): note: see previous definition of 'glDrawElementsInstanced'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(864): warning C4005: 'glDrawElementsInstancedBaseInstance': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4573): note: see previous definition of 'glDrawElementsInstancedBaseInstance'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(865): warning C4005: 'glDrawElementsInstancedBaseVertex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3927): note: see previous definition of 'glDrawElementsInstancedBaseVertex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(866): warning C4005: 'glDrawElementsInstancedBaseVertexBaseInstance': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4576): note: see previous definition of 'glDrawElementsInstancedBaseVertexBaseInstance'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(867): warning C4005: 'glDrawRangeElements': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2956): note: see previous definition of 'glDrawRangeElements'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(868): warning C4005: 'glDrawRangeElementsBaseVertex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3924): note: see previous definition of 'glDrawRangeElementsBaseVertex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(869): warning C4005: 'glDrawTransformFeedback': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4283): note: see previous definition of 'glDrawTransformFeedback'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(870): warning C4005: 'glDrawTransformFeedbackInstanced': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4600): note: see previous definition of 'glDrawTransformFeedbackInstanced'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(871): warning C4005: 'glDrawTransformFeedbackStream': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4286): note: see previous definition of 'glDrawTransformFeedbackStream'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(872): warning C4005: 'glDrawTransformFeedbackStreamInstanced': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4603): note: see previous definition of 'glDrawTransformFeedbackStreamInstanced'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(873): warning C4005: 'glEnable': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2006): note: see previous definition of 'glEnable'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(875): warning C4005: 'glEnableVertexAttribArray': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3362): note: see previous definition of 'glEnableVertexAttribArray'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(876): warning C4005: 'glEnablei': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3634): note: see previous definition of 'glEnablei'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(877): warning C4005: 'glEndConditionalRender': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3667): note: see previous definition of 'glEndConditionalRender'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(878): warning C4005: 'glEndQuery': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3271): note: see previous definition of 'glEndQuery'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(879): warning C4005: 'glEndQueryIndexed': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4292): note: see previous definition of 'glEndQueryIndexed'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(880): warning C4005: 'glEndTransformFeedback': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3646): note: see previous definition of 'glEndTransformFeedback'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(881): warning C4005: 'glFenceSync': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3936): note: see previous definition of 'glFenceSync'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(882): warning C4005: 'glFinish': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2009): note: see previous definition of 'glFinish'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(883): warning C4005: 'glFlush': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2012): note: see previous definition of 'glFlush'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(884): warning C4005: 'glFlushMappedBufferRange': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3862): note: see previous definition of 'glFlushMappedBufferRange'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(886): warning C4005: 'glFramebufferParameteri': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4625): note: see previous definition of 'glFramebufferParameteri'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(887): warning C4005: 'glFramebufferRenderbuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3841): note: see previous definition of 'glFramebufferRenderbuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(888): warning C4005: 'glFramebufferTexture': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3963): note: see previous definition of 'glFramebufferTexture'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(889): warning C4005: 'glFramebufferTexture1D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3832): note: see previous definition of 'glFramebufferTexture1D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(890): warning C4005: 'glFramebufferTexture2D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3835): note: see previous definition of 'glFramebufferTexture2D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(891): warning C4005: 'glFramebufferTexture3D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3838): note: see previous definition of 'glFramebufferTexture3D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(892): warning C4005: 'glFramebufferTextureLayer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3856): note: see previous definition of 'glFramebufferTextureLayer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(893): warning C4005: 'glFrontFace': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1943): note: see previous definition of 'glFrontFace'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(894): warning C4005: 'glGenBuffers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3289): note: see previous definition of 'glGenBuffers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(895): warning C4005: 'glGenFramebuffers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3826): note: see previous definition of 'glGenFramebuffers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(896): warning C4005: 'glGenProgramPipelines': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4341): note: see previous definition of 'glGenProgramPipelines'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(897): warning C4005: 'glGenQueries': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3259): note: see previous definition of 'glGenQueries'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(898): warning C4005: 'glGenRenderbuffers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3808): note: see previous definition of 'glGenRenderbuffers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(899): warning C4005: 'glGenSamplers': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3988): note: see previous definition of 'glGenSamplers'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(900): warning C4005: 'glGenTextures': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2898): note: see previous definition of 'glGenTextures'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(901): warning C4005: 'glGenTransformFeedbacks': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4271): note: see previous definition of 'glGenTransformFeedbacks'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(902): warning C4005: 'glGenVertexArrays': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3871): note: see previous definition of 'glGenVertexArrays'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(903): warning C4005: 'glGenerateMipmap': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3847): note: see previous definition of 'glGenerateMipmap'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(905): warning C4005: 'glGetActiveAtomicCounterBufferiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4582): note: see previous definition of 'glGetActiveAtomicCounterBufferiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(906): warning C4005: 'glGetActiveAttrib': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3365): note: see previous definition of 'glGetActiveAttrib'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(907): warning C4005: 'glGetActiveSubroutineName': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4247): note: see previous definition of 'glGetActiveSubroutineName'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(908): warning C4005: 'glGetActiveSubroutineUniformName': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4244): note: see previous definition of 'glGetActiveSubroutineUniformName'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(909): warning C4005: 'glGetActiveSubroutineUniformiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4241): note: see previous definition of 'glGetActiveSubroutineUniformiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(910): warning C4005: 'glGetActiveUniform': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3368): note: see previous definition of 'glGetActiveUniform'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(911): warning C4005: 'glGetActiveUniformBlockName': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3911): note: see previous definition of 'glGetActiveUniformBlockName'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(912): warning C4005: 'glGetActiveUniformBlockiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3908): note: see previous definition of 'glGetActiveUniformBlockiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(913): warning C4005: 'glGetActiveUniformName': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3902): note: see previous definition of 'glGetActiveUniformName'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(914): warning C4005: 'glGetActiveUniformsiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3899): note: see previous definition of 'glGetActiveUniformsiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(915): warning C4005: 'glGetAttachedShaders': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3371): note: see previous definition of 'glGetAttachedShaders'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(916): warning C4005: 'glGetAttribLocation': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3374): note: see previous definition of 'glGetAttribLocation'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(917): warning C4005: 'glGetBooleani_v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3628): note: see previous definition of 'glGetBooleani_v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(918): warning C4005: 'glGetBooleanv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2042): note: see previous definition of 'glGetBooleanv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(919): warning C4005: 'glGetBufferParameteri64v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3960): note: see previous definition of 'glGetBufferParameteri64v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(920): warning C4005: 'glGetBufferParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3310): note: see previous definition of 'glGetBufferParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(921): warning C4005: 'glGetBufferPointerv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3313): note: see previous definition of 'glGetBufferPointerv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(922): warning C4005: 'glGetBufferSubData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3301): note: see previous definition of 'glGetBufferSubData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(923): warning C4005: 'glGetCompressedTexImage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2996): note: see previous definition of 'glGetCompressedTexImage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(926): warning C4005: 'glGetDebugMessageLog': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4718): note: see previous definition of 'glGetDebugMessageLog'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(927): warning C4005: 'glGetDoublei_v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4563): note: see previous definition of 'glGetDoublei_v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(928): warning C4005: 'glGetDoublev': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2045): note: see previous definition of 'glGetDoublev'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(929): warning C4005: 'glGetError': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2048): note: see previous definition of 'glGetError'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(930): warning C4005: 'glGetFloati_v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4560): note: see previous definition of 'glGetFloati_v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(931): warning C4005: 'glGetFloatv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2051): note: see previous definition of 'glGetFloatv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(932): warning C4005: 'glGetFragDataIndex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3985): note: see previous definition of 'glGetFragDataIndex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(933): warning C4005: 'glGetFragDataLocation': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3745): note: see previous definition of 'glGetFragDataLocation'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(934): warning C4005: 'glGetFramebufferAttachmentParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3844): note: see previous definition of 'glGetFramebufferAttachmentParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(935): warning C4005: 'glGetFramebufferParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4628): note: see previous definition of 'glGetFramebufferParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(937): warning C4005: 'glGetInteger64i_v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3957): note: see previous definition of 'glGetInteger64i_v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(938): warning C4005: 'glGetInteger64v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3951): note: see previous definition of 'glGetInteger64v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(939): warning C4005: 'glGetIntegeri_v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3631): note: see previous definition of 'glGetIntegeri_v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(940): warning C4005: 'glGetIntegerv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2054): note: see previous definition of 'glGetIntegerv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(941): warning C4005: 'glGetInternalformati64v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4631): note: see previous definition of 'glGetInternalformati64v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(942): warning C4005: 'glGetInternalformativ': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4579): note: see previous definition of 'glGetInternalformativ'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(943): warning C4005: 'glGetMultisamplefv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3972): note: see previous definition of 'glGetMultisamplefv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(951): warning C4005: 'glGetObjectLabel': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4730): note: see previous definition of 'glGetObjectLabel'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(952): warning C4005: 'glGetObjectPtrLabel': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4736): note: see previous definition of 'glGetObjectPtrLabel'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(953): warning C4005: 'glGetPointerv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2868): note: see previous definition of 'glGetPointerv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(954): warning C4005: 'glGetProgramBinary': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4317): note: see previous definition of 'glGetProgramBinary'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(955): warning C4005: 'glGetProgramInfoLog': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3380): note: see previous definition of 'glGetProgramInfoLog'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(956): warning C4005: 'glGetProgramInterfaceiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4658): note: see previous definition of 'glGetProgramInterfaceiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(957): warning C4005: 'glGetProgramPipelineInfoLog': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4503): note: see previous definition of 'glGetProgramPipelineInfoLog'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(958): warning C4005: 'glGetProgramPipelineiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4347): note: see previous definition of 'glGetProgramPipelineiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(959): warning C4005: 'glGetProgramResourceIndex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4661): note: see previous definition of 'glGetProgramResourceIndex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(960): warning C4005: 'glGetProgramResourceLocation': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4670): note: see previous definition of 'glGetProgramResourceLocation'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(961): warning C4005: 'glGetProgramResourceLocationIndex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4673): note: see previous definition of 'glGetProgramResourceLocationIndex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(962): warning C4005: 'glGetProgramResourceName': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4664): note: see previous definition of 'glGetProgramResourceName'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(963): warning C4005: 'glGetProgramResourceiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4667): note: see previous definition of 'glGetProgramResourceiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(964): warning C4005: 'glGetProgramStageiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4256): note: see previous definition of 'glGetProgramStageiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(965): warning C4005: 'glGetProgramiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3377): note: see previous definition of 'glGetProgramiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(970): warning C4005: 'glGetQueryIndexediv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4295): note: see previous definition of 'glGetQueryIndexediv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(971): warning C4005: 'glGetQueryObjecti64v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4033): note: see previous definition of 'glGetQueryObjecti64v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(972): warning C4005: 'glGetQueryObjectiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3277): note: see previous definition of 'glGetQueryObjectiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(973): warning C4005: 'glGetQueryObjectui64v': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4036): note: see previous definition of 'glGetQueryObjectui64v'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(974): warning C4005: 'glGetQueryObjectuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3280): note: see previous definition of 'glGetQueryObjectuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(975): warning C4005: 'glGetQueryiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3274): note: see previous definition of 'glGetQueryiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(976): warning C4005: 'glGetRenderbufferParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3814): note: see previous definition of 'glGetRenderbufferParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(977): warning C4005: 'glGetSamplerParameterIiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4021): note: see previous definition of 'glGetSamplerParameterIiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(978): warning C4005: 'glGetSamplerParameterIuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4027): note: see previous definition of 'glGetSamplerParameterIuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(979): warning C4005: 'glGetSamplerParameterfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4024): note: see previous definition of 'glGetSamplerParameterfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(980): warning C4005: 'glGetSamplerParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4018): note: see previous definition of 'glGetSamplerParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(981): warning C4005: 'glGetShaderInfoLog': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3386): note: see previous definition of 'glGetShaderInfoLog'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(982): warning C4005: 'glGetShaderPrecisionFormat': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4308): note: see previous definition of 'glGetShaderPrecisionFormat'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(983): warning C4005: 'glGetShaderSource': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3389): note: see previous definition of 'glGetShaderSource'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(984): warning C4005: 'glGetShaderiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3383): note: see previous definition of 'glGetShaderiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(985): warning C4005: 'glGetString': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2057): note: see previous definition of 'glGetString'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(986): warning C4005: 'glGetStringi': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3796): note: see previous definition of 'glGetStringi'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(987): warning C4005: 'glGetSubroutineIndex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4238): note: see previous definition of 'glGetSubroutineIndex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(988): warning C4005: 'glGetSubroutineUniformLocation': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4235): note: see previous definition of 'glGetSubroutineUniformLocation'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(989): warning C4005: 'glGetSynciv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3954): note: see previous definition of 'glGetSynciv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(990): warning C4005: 'glGetTexImage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2060): note: see previous definition of 'glGetTexImage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(991): warning C4005: 'glGetTexLevelParameterfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2069): note: see previous definition of 'glGetTexLevelParameterfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(992): warning C4005: 'glGetTexLevelParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2072): note: see previous definition of 'glGetTexLevelParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(993): warning C4005: 'glGetTexParameterIiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3778): note: see previous definition of 'glGetTexParameterIiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(994): warning C4005: 'glGetTexParameterIuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3781): note: see previous definition of 'glGetTexParameterIuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(995): warning C4005: 'glGetTexParameterfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2063): note: see previous definition of 'glGetTexParameterfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(996): warning C4005: 'glGetTexParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2066): note: see previous definition of 'glGetTexParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1005): warning C4005: 'glGetTransformFeedbackVarying': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3658): note: see previous definition of 'glGetTransformFeedbackVarying'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1009): warning C4005: 'glGetUniformBlockIndex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3905): note: see previous definition of 'glGetUniformBlockIndex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1010): warning C4005: 'glGetUniformIndices': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3896): note: see previous definition of 'glGetUniformIndices'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1011): warning C4005: 'glGetUniformLocation': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3392): note: see previous definition of 'glGetUniformLocation'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1012): warning C4005: 'glGetUniformSubroutineuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4253): note: see previous definition of 'glGetUniformSubroutineuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1013): warning C4005: 'glGetUniformdv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4232): note: see previous definition of 'glGetUniformdv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1014): warning C4005: 'glGetUniformfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3395): note: see previous definition of 'glGetUniformfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1015): warning C4005: 'glGetUniformiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3398): note: see previous definition of 'glGetUniformiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1016): warning C4005: 'glGetUniformuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3739): note: see previous definition of 'glGetUniformuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1020): warning C4005: 'glGetVertexAttribIiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3673): note: see previous definition of 'glGetVertexAttribIiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1021): warning C4005: 'glGetVertexAttribIuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3676): note: see previous definition of 'glGetVertexAttribIuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1022): warning C4005: 'glGetVertexAttribLdv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4533): note: see previous definition of 'glGetVertexAttribLdv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1023): warning C4005: 'glGetVertexAttribPointerv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3410): note: see previous definition of 'glGetVertexAttribPointerv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1024): warning C4005: 'glGetVertexAttribdv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3401): note: see previous definition of 'glGetVertexAttribdv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1025): warning C4005: 'glGetVertexAttribfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3404): note: see previous definition of 'glGetVertexAttribfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1026): warning C4005: 'glGetVertexAttribiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3407): note: see previous definition of 'glGetVertexAttribiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1033): warning C4005: 'glHint': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1946): note: see previous definition of 'glHint'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1034): warning C4005: 'glInvalidateBufferData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4643): note: see previous definition of 'glInvalidateBufferData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1035): warning C4005: 'glInvalidateBufferSubData': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4640): note: see previous definition of 'glInvalidateBufferSubData'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1036): warning C4005: 'glInvalidateFramebuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4646): note: see previous definition of 'glInvalidateFramebuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1039): warning C4005: 'glInvalidateSubFramebuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4649): note: see previous definition of 'glInvalidateSubFramebuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1040): warning C4005: 'glInvalidateTexImage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4637): note: see previous definition of 'glInvalidateTexImage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1041): warning C4005: 'glInvalidateTexSubImage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4634): note: see previous definition of 'glInvalidateTexSubImage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1042): warning C4005: 'glIsBuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3292): note: see previous definition of 'glIsBuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1043): warning C4005: 'glIsEnabled': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2075): note: see previous definition of 'glIsEnabled'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1044): warning C4005: 'glIsEnabledi': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3640): note: see previous definition of 'glIsEnabledi'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1045): warning C4005: 'glIsFramebuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3817): note: see previous definition of 'glIsFramebuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1046): warning C4005: 'glIsProgram': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3413): note: see previous definition of 'glIsProgram'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1047): warning C4005: 'glIsProgramPipeline': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4344): note: see previous definition of 'glIsProgramPipeline'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1048): warning C4005: 'glIsQuery': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3265): note: see previous definition of 'glIsQuery'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1049): warning C4005: 'glIsRenderbuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3799): note: see previous definition of 'glIsRenderbuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1050): warning C4005: 'glIsSampler': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3994): note: see previous definition of 'glIsSampler'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1051): warning C4005: 'glIsShader': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3416): note: see previous definition of 'glIsShader'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1052): warning C4005: 'glIsSync': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3939): note: see previous definition of 'glIsSync'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1053): warning C4005: 'glIsTexture': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2901): note: see previous definition of 'glIsTexture'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1054): warning C4005: 'glIsTransformFeedback': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4274): note: see previous definition of 'glIsTransformFeedback'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1055): warning C4005: 'glIsVertexArray': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3874): note: see previous definition of 'glIsVertexArray'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1056): warning C4005: 'glLineWidth': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1949): note: see previous definition of 'glLineWidth'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1057): warning C4005: 'glLinkProgram': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3419): note: see previous definition of 'glLinkProgram'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1058): warning C4005: 'glLogicOp': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2018): note: see previous definition of 'glLogicOp'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1059): warning C4005: 'glMapBuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3304): note: see previous definition of 'glMapBuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1060): warning C4005: 'glMapBufferRange': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3859): note: see previous definition of 'glMapBufferRange'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1063): warning C4005: 'glMemoryBarrier': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4588): note: see previous definition of 'glMemoryBarrier'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1065): warning C4005: 'glMinSampleShading': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4160): note: see previous definition of 'glMinSampleShading'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1066): warning C4005: 'glMultiDrawArrays': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3117): note: see previous definition of 'glMultiDrawArrays'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1067): warning C4005: 'glMultiDrawArraysIndirect': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4652): note: see previous definition of 'glMultiDrawArraysIndirect'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1069): warning C4005: 'glMultiDrawElements': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3120): note: see previous definition of 'glMultiDrawElements'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1070): warning C4005: 'glMultiDrawElementsBaseVertex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3930): note: see previous definition of 'glMultiDrawElementsBaseVertex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1071): warning C4005: 'glMultiDrawElementsIndirect': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4655): note: see previous definition of 'glMultiDrawElementsIndirect'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1085): warning C4005: 'glObjectLabel': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4727): note: see previous definition of 'glObjectLabel'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1086): warning C4005: 'glObjectPtrLabel': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4733): note: see previous definition of 'glObjectPtrLabel'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1087): warning C4005: 'glPatchParameterfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4262): note: see previous definition of 'glPatchParameterfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1088): warning C4005: 'glPatchParameteri': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4259): note: see previous definition of 'glPatchParameteri'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1089): warning C4005: 'glPauseTransformFeedback': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4277): note: see previous definition of 'glPauseTransformFeedback'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1090): warning C4005: 'glPixelStoref': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2030): note: see previous definition of 'glPixelStoref'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1091): warning C4005: 'glPixelStorei': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2033): note: see previous definition of 'glPixelStorei'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1092): warning C4005: 'glPointParameterf': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3123): note: see previous definition of 'glPointParameterf'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1093): warning C4005: 'glPointParameterfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3126): note: see previous definition of 'glPointParameterfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1094): warning C4005: 'glPointParameteri': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3129): note: see previous definition of 'glPointParameteri'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1095): warning C4005: 'glPointParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3132): note: see previous definition of 'glPointParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1096): warning C4005: 'glPointSize': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1952): note: see previous definition of 'glPointSize'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1097): warning C4005: 'glPolygonMode': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1955): note: see previous definition of 'glPolygonMode'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1098): warning C4005: 'glPolygonOffset': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2871): note: see previous definition of 'glPolygonOffset'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1100): warning C4005: 'glPopDebugGroup': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4724): note: see previous definition of 'glPopDebugGroup'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1101): warning C4005: 'glPrimitiveRestartIndex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3890): note: see previous definition of 'glPrimitiveRestartIndex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1102): warning C4005: 'glProgramBinary': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4320): note: see previous definition of 'glProgramBinary'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1103): warning C4005: 'glProgramParameteri': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4323): note: see previous definition of 'glProgramParameteri'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1104): warning C4005: 'glProgramUniform1d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4362): note: see previous definition of 'glProgramUniform1d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1105): warning C4005: 'glProgramUniform1dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4365): note: see previous definition of 'glProgramUniform1dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1106): warning C4005: 'glProgramUniform1f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4356): note: see previous definition of 'glProgramUniform1f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1107): warning C4005: 'glProgramUniform1fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4359): note: see previous definition of 'glProgramUniform1fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1108): warning C4005: 'glProgramUniform1i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4350): note: see previous definition of 'glProgramUniform1i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1109): warning C4005: 'glProgramUniform1iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4353): note: see previous definition of 'glProgramUniform1iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1110): warning C4005: 'glProgramUniform1ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4368): note: see previous definition of 'glProgramUniform1ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1111): warning C4005: 'glProgramUniform1uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4371): note: see previous definition of 'glProgramUniform1uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1112): warning C4005: 'glProgramUniform2d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4386): note: see previous definition of 'glProgramUniform2d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1113): warning C4005: 'glProgramUniform2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4389): note: see previous definition of 'glProgramUniform2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1114): warning C4005: 'glProgramUniform2f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4380): note: see previous definition of 'glProgramUniform2f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1115): warning C4005: 'glProgramUniform2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4383): note: see previous definition of 'glProgramUniform2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1116): warning C4005: 'glProgramUniform2i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4374): note: see previous definition of 'glProgramUniform2i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1117): warning C4005: 'glProgramUniform2iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4377): note: see previous definition of 'glProgramUniform2iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1118): warning C4005: 'glProgramUniform2ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4392): note: see previous definition of 'glProgramUniform2ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1119): warning C4005: 'glProgramUniform2uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4395): note: see previous definition of 'glProgramUniform2uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1120): warning C4005: 'glProgramUniform3d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4410): note: see previous definition of 'glProgramUniform3d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1121): warning C4005: 'glProgramUniform3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4413): note: see previous definition of 'glProgramUniform3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1122): warning C4005: 'glProgramUniform3f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4404): note: see previous definition of 'glProgramUniform3f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1123): warning C4005: 'glProgramUniform3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4407): note: see previous definition of 'glProgramUniform3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1124): warning C4005: 'glProgramUniform3i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4398): note: see previous definition of 'glProgramUniform3i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1125): warning C4005: 'glProgramUniform3iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4401): note: see previous definition of 'glProgramUniform3iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1126): warning C4005: 'glProgramUniform3ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4416): note: see previous definition of 'glProgramUniform3ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1127): warning C4005: 'glProgramUniform3uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4419): note: see previous definition of 'glProgramUniform3uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1128): warning C4005: 'glProgramUniform4d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4434): note: see previous definition of 'glProgramUniform4d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1129): warning C4005: 'glProgramUniform4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4437): note: see previous definition of 'glProgramUniform4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1130): warning C4005: 'glProgramUniform4f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4428): note: see previous definition of 'glProgramUniform4f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1131): warning C4005: 'glProgramUniform4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4431): note: see previous definition of 'glProgramUniform4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1132): warning C4005: 'glProgramUniform4i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4422): note: see previous definition of 'glProgramUniform4i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1133): warning C4005: 'glProgramUniform4iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4425): note: see previous definition of 'glProgramUniform4iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1134): warning C4005: 'glProgramUniform4ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4440): note: see previous definition of 'glProgramUniform4ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1135): warning C4005: 'glProgramUniform4uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4443): note: see previous definition of 'glProgramUniform4uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1136): warning C4005: 'glProgramUniformMatrix2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4455): note: see previous definition of 'glProgramUniformMatrix2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1137): warning C4005: 'glProgramUniformMatrix2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4446): note: see previous definition of 'glProgramUniformMatrix2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1138): warning C4005: 'glProgramUniformMatrix2x3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4482): note: see previous definition of 'glProgramUniformMatrix2x3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1139): warning C4005: 'glProgramUniformMatrix2x3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4464): note: see previous definition of 'glProgramUniformMatrix2x3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1140): warning C4005: 'glProgramUniformMatrix2x4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4488): note: see previous definition of 'glProgramUniformMatrix2x4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1141): warning C4005: 'glProgramUniformMatrix2x4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4470): note: see previous definition of 'glProgramUniformMatrix2x4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1142): warning C4005: 'glProgramUniformMatrix3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4458): note: see previous definition of 'glProgramUniformMatrix3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1143): warning C4005: 'glProgramUniformMatrix3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4449): note: see previous definition of 'glProgramUniformMatrix3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1144): warning C4005: 'glProgramUniformMatrix3x2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4485): note: see previous definition of 'glProgramUniformMatrix3x2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1145): warning C4005: 'glProgramUniformMatrix3x2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4467): note: see previous definition of 'glProgramUniformMatrix3x2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1146): warning C4005: 'glProgramUniformMatrix3x4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4494): note: see previous definition of 'glProgramUniformMatrix3x4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1147): warning C4005: 'glProgramUniformMatrix3x4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4476): note: see previous definition of 'glProgramUniformMatrix3x4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1148): warning C4005: 'glProgramUniformMatrix4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4461): note: see previous definition of 'glProgramUniformMatrix4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1149): warning C4005: 'glProgramUniformMatrix4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4452): note: see previous definition of 'glProgramUniformMatrix4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1150): warning C4005: 'glProgramUniformMatrix4x2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4491): note: see previous definition of 'glProgramUniformMatrix4x2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1151): warning C4005: 'glProgramUniformMatrix4x2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4473): note: see previous definition of 'glProgramUniformMatrix4x2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1152): warning C4005: 'glProgramUniformMatrix4x3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4497): note: see previous definition of 'glProgramUniformMatrix4x3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1153): warning C4005: 'glProgramUniformMatrix4x3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4479): note: see previous definition of 'glProgramUniformMatrix4x3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1154): warning C4005: 'glProvokingVertex': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3933): note: see previous definition of 'glProvokingVertex'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1155): warning C4005: 'glPushDebugGroup': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4721): note: see previous definition of 'glPushDebugGroup'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1156): warning C4005: 'glQueryCounter': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4030): note: see previous definition of 'glQueryCounter'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1157): warning C4005: 'glReadBuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2036): note: see previous definition of 'glReadBuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1158): warning C4005: 'glReadPixels': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2039): note: see previous definition of 'glReadPixels'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1160): warning C4005: 'glReleaseShaderCompiler': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4302): note: see previous definition of 'glReleaseShaderCompiler'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1161): warning C4005: 'glRenderbufferStorage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3811): note: see previous definition of 'glRenderbufferStorage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1162): warning C4005: 'glRenderbufferStorageMultisample': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3853): note: see previous definition of 'glRenderbufferStorageMultisample'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1163): warning C4005: 'glResumeTransformFeedback': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4280): note: see previous definition of 'glResumeTransformFeedback'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1164): warning C4005: 'glSampleCoverage': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2975): note: see previous definition of 'glSampleCoverage'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1165): warning C4005: 'glSampleMaski': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3975): note: see previous definition of 'glSampleMaski'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1166): warning C4005: 'glSamplerParameterIiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4012): note: see previous definition of 'glSamplerParameterIiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1167): warning C4005: 'glSamplerParameterIuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4015): note: see previous definition of 'glSamplerParameterIuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1168): warning C4005: 'glSamplerParameterf': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4006): note: see previous definition of 'glSamplerParameterf'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1169): warning C4005: 'glSamplerParameterfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4009): note: see previous definition of 'glSamplerParameterfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1170): warning C4005: 'glSamplerParameteri': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4000): note: see previous definition of 'glSamplerParameteri'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1171): warning C4005: 'glSamplerParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4003): note: see previous definition of 'glSamplerParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1172): warning C4005: 'glScissor': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1958): note: see previous definition of 'glScissor'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1173): warning C4005: 'glScissorArrayv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4545): note: see previous definition of 'glScissorArrayv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1174): warning C4005: 'glScissorIndexed': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4548): note: see previous definition of 'glScissorIndexed'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1175): warning C4005: 'glScissorIndexedv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4551): note: see previous definition of 'glScissorIndexedv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1176): warning C4005: 'glShaderBinary': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4305): note: see previous definition of 'glShaderBinary'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1177): warning C4005: 'glShaderSource': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3422): note: see previous definition of 'glShaderSource'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1178): warning C4005: 'glShaderStorageBlockBinding': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4676): note: see previous definition of 'glShaderStorageBlockBinding'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1180): warning C4005: 'glStencilFunc': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2021): note: see previous definition of 'glStencilFunc'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1181): warning C4005: 'glStencilFuncSeparate': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3329): note: see previous definition of 'glStencilFuncSeparate'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1182): warning C4005: 'glStencilMask': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1994): note: see previous definition of 'glStencilMask'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1183): warning C4005: 'glStencilMaskSeparate': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3332): note: see previous definition of 'glStencilMaskSeparate'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1184): warning C4005: 'glStencilOp': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2024): note: see previous definition of 'glStencilOp'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1185): warning C4005: 'glStencilOpSeparate': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3326): note: see previous definition of 'glStencilOpSeparate'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1186): warning C4005: 'glTexBuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3887): note: see previous definition of 'glTexBuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1187): warning C4005: 'glTexBufferRange': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4679): note: see previous definition of 'glTexBufferRange'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1188): warning C4005: 'glTexImage1D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1973): note: see previous definition of 'glTexImage1D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1189): warning C4005: 'glTexImage2D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1976): note: see previous definition of 'glTexImage2D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1190): warning C4005: 'glTexImage2DMultisample': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3966): note: see previous definition of 'glTexImage2DMultisample'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1191): warning C4005: 'glTexImage3D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2959): note: see previous definition of 'glTexImage3D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1192): warning C4005: 'glTexImage3DMultisample': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3969): note: see previous definition of 'glTexImage3DMultisample'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1193): warning C4005: 'glTexParameterIiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3772): note: see previous definition of 'glTexParameterIiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1194): warning C4005: 'glTexParameterIuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3775): note: see previous definition of 'glTexParameterIuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1195): warning C4005: 'glTexParameterf': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1961): note: see previous definition of 'glTexParameterf'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1196): warning C4005: 'glTexParameterfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1964): note: see previous definition of 'glTexParameterfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1197): warning C4005: 'glTexParameteri': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1967): note: see previous definition of 'glTexParameteri'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1198): warning C4005: 'glTexParameteriv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(1970): note: see previous definition of 'glTexParameteriv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1199): warning C4005: 'glTexStorage1D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4591): note: see previous definition of 'glTexStorage1D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1200): warning C4005: 'glTexStorage2D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4594): note: see previous definition of 'glTexStorage2D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1201): warning C4005: 'glTexStorage2DMultisample': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4682): note: see previous definition of 'glTexStorage2DMultisample'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1202): warning C4005: 'glTexStorage3D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4597): note: see previous definition of 'glTexStorage3D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1203): warning C4005: 'glTexStorage3DMultisample': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4685): note: see previous definition of 'glTexStorage3DMultisample'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1204): warning C4005: 'glTexSubImage1D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2886): note: see previous definition of 'glTexSubImage1D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1205): warning C4005: 'glTexSubImage2D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2889): note: see previous definition of 'glTexSubImage2D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1206): warning C4005: 'glTexSubImage3D': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2962): note: see previous definition of 'glTexSubImage3D'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1224): warning C4005: 'glTextureView': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4688): note: see previous definition of 'glTextureView'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1227): warning C4005: 'glTransformFeedbackVaryings': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3655): note: see previous definition of 'glTransformFeedbackVaryings'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1228): warning C4005: 'glUniform1d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4181): note: see previous definition of 'glUniform1d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1229): warning C4005: 'glUniform1dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4193): note: see previous definition of 'glUniform1dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1230): warning C4005: 'glUniform1f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3428): note: see previous definition of 'glUniform1f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1231): warning C4005: 'glUniform1fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3452): note: see previous definition of 'glUniform1fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1232): warning C4005: 'glUniform1i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3440): note: see previous definition of 'glUniform1i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1233): warning C4005: 'glUniform1iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3464): note: see previous definition of 'glUniform1iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1234): warning C4005: 'glUniform1ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3748): note: see previous definition of 'glUniform1ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1235): warning C4005: 'glUniform1uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3760): note: see previous definition of 'glUniform1uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1236): warning C4005: 'glUniform2d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4184): note: see previous definition of 'glUniform2d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1237): warning C4005: 'glUniform2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4196): note: see previous definition of 'glUniform2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1238): warning C4005: 'glUniform2f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3431): note: see previous definition of 'glUniform2f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1239): warning C4005: 'glUniform2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3455): note: see previous definition of 'glUniform2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1240): warning C4005: 'glUniform2i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3443): note: see previous definition of 'glUniform2i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1241): warning C4005: 'glUniform2iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3467): note: see previous definition of 'glUniform2iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1242): warning C4005: 'glUniform2ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3751): note: see previous definition of 'glUniform2ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1243): warning C4005: 'glUniform2uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3763): note: see previous definition of 'glUniform2uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1244): warning C4005: 'glUniform3d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4187): note: see previous definition of 'glUniform3d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1245): warning C4005: 'glUniform3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4199): note: see previous definition of 'glUniform3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1246): warning C4005: 'glUniform3f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3434): note: see previous definition of 'glUniform3f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1247): warning C4005: 'glUniform3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3458): note: see previous definition of 'glUniform3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1248): warning C4005: 'glUniform3i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3446): note: see previous definition of 'glUniform3i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1249): warning C4005: 'glUniform3iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3470): note: see previous definition of 'glUniform3iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1250): warning C4005: 'glUniform3ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3754): note: see previous definition of 'glUniform3ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1251): warning C4005: 'glUniform3uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3766): note: see previous definition of 'glUniform3uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1252): warning C4005: 'glUniform4d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4190): note: see previous definition of 'glUniform4d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1253): warning C4005: 'glUniform4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4202): note: see previous definition of 'glUniform4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1254): warning C4005: 'glUniform4f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3437): note: see previous definition of 'glUniform4f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1255): warning C4005: 'glUniform4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3461): note: see previous definition of 'glUniform4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1256): warning C4005: 'glUniform4i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3449): note: see previous definition of 'glUniform4i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1257): warning C4005: 'glUniform4iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3473): note: see previous definition of 'glUniform4iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1258): warning C4005: 'glUniform4ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3757): note: see previous definition of 'glUniform4ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1259): warning C4005: 'glUniform4uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3769): note: see previous definition of 'glUniform4uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1260): warning C4005: 'glUniformBlockBinding': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3914): note: see previous definition of 'glUniformBlockBinding'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1261): warning C4005: 'glUniformMatrix2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4205): note: see previous definition of 'glUniformMatrix2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1262): warning C4005: 'glUniformMatrix2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3476): note: see previous definition of 'glUniformMatrix2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1263): warning C4005: 'glUniformMatrix2x3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4214): note: see previous definition of 'glUniformMatrix2x3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1264): warning C4005: 'glUniformMatrix2x3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3603): note: see previous definition of 'glUniformMatrix2x3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1265): warning C4005: 'glUniformMatrix2x4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4217): note: see previous definition of 'glUniformMatrix2x4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1266): warning C4005: 'glUniformMatrix2x4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3609): note: see previous definition of 'glUniformMatrix2x4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1267): warning C4005: 'glUniformMatrix3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4208): note: see previous definition of 'glUniformMatrix3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1268): warning C4005: 'glUniformMatrix3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3479): note: see previous definition of 'glUniformMatrix3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1269): warning C4005: 'glUniformMatrix3x2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4220): note: see previous definition of 'glUniformMatrix3x2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1270): warning C4005: 'glUniformMatrix3x2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3606): note: see previous definition of 'glUniformMatrix3x2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1271): warning C4005: 'glUniformMatrix3x4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4223): note: see previous definition of 'glUniformMatrix3x4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1272): warning C4005: 'glUniformMatrix3x4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3615): note: see previous definition of 'glUniformMatrix3x4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1273): warning C4005: 'glUniformMatrix4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4211): note: see previous definition of 'glUniformMatrix4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1274): warning C4005: 'glUniformMatrix4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3482): note: see previous definition of 'glUniformMatrix4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1275): warning C4005: 'glUniformMatrix4x2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4226): note: see previous definition of 'glUniformMatrix4x2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1276): warning C4005: 'glUniformMatrix4x2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3612): note: see previous definition of 'glUniformMatrix4x2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1277): warning C4005: 'glUniformMatrix4x3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4229): note: see previous definition of 'glUniformMatrix4x3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1278): warning C4005: 'glUniformMatrix4x3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3618): note: see previous definition of 'glUniformMatrix4x3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1279): warning C4005: 'glUniformSubroutinesuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4250): note: see previous definition of 'glUniformSubroutinesuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1280): warning C4005: 'glUnmapBuffer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3307): note: see previous definition of 'glUnmapBuffer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1282): warning C4005: 'glUseProgram': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3425): note: see previous definition of 'glUseProgram'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1283): warning C4005: 'glUseProgramStages': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4326): note: see previous definition of 'glUseProgramStages'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1284): warning C4005: 'glValidateProgram': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3485): note: see previous definition of 'glValidateProgram'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1285): warning C4005: 'glValidateProgramPipeline': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4500): note: see previous definition of 'glValidateProgramPipeline'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1294): warning C4005: 'glVertexAttrib1d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3488): note: see previous definition of 'glVertexAttrib1d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1295): warning C4005: 'glVertexAttrib1dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3491): note: see previous definition of 'glVertexAttrib1dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1296): warning C4005: 'glVertexAttrib1f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3494): note: see previous definition of 'glVertexAttrib1f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1297): warning C4005: 'glVertexAttrib1fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3497): note: see previous definition of 'glVertexAttrib1fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1298): warning C4005: 'glVertexAttrib1s': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3500): note: see previous definition of 'glVertexAttrib1s'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1299): warning C4005: 'glVertexAttrib1sv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3503): note: see previous definition of 'glVertexAttrib1sv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1300): warning C4005: 'glVertexAttrib2d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3506): note: see previous definition of 'glVertexAttrib2d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1301): warning C4005: 'glVertexAttrib2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3509): note: see previous definition of 'glVertexAttrib2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1302): warning C4005: 'glVertexAttrib2f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3512): note: see previous definition of 'glVertexAttrib2f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1303): warning C4005: 'glVertexAttrib2fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3515): note: see previous definition of 'glVertexAttrib2fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1304): warning C4005: 'glVertexAttrib2s': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3518): note: see previous definition of 'glVertexAttrib2s'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1305): warning C4005: 'glVertexAttrib2sv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3521): note: see previous definition of 'glVertexAttrib2sv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1306): warning C4005: 'glVertexAttrib3d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3524): note: see previous definition of 'glVertexAttrib3d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1307): warning C4005: 'glVertexAttrib3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3527): note: see previous definition of 'glVertexAttrib3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1308): warning C4005: 'glVertexAttrib3f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3530): note: see previous definition of 'glVertexAttrib3f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1309): warning C4005: 'glVertexAttrib3fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3533): note: see previous definition of 'glVertexAttrib3fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1310): warning C4005: 'glVertexAttrib3s': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3536): note: see previous definition of 'glVertexAttrib3s'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1311): warning C4005: 'glVertexAttrib3sv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3539): note: see previous definition of 'glVertexAttrib3sv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1312): warning C4005: 'glVertexAttrib4Nbv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3542): note: see previous definition of 'glVertexAttrib4Nbv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1313): warning C4005: 'glVertexAttrib4Niv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3545): note: see previous definition of 'glVertexAttrib4Niv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1314): warning C4005: 'glVertexAttrib4Nsv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3548): note: see previous definition of 'glVertexAttrib4Nsv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1315): warning C4005: 'glVertexAttrib4Nub': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3551): note: see previous definition of 'glVertexAttrib4Nub'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1316): warning C4005: 'glVertexAttrib4Nubv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3554): note: see previous definition of 'glVertexAttrib4Nubv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1317): warning C4005: 'glVertexAttrib4Nuiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3557): note: see previous definition of 'glVertexAttrib4Nuiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1318): warning C4005: 'glVertexAttrib4Nusv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3560): note: see previous definition of 'glVertexAttrib4Nusv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1319): warning C4005: 'glVertexAttrib4bv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3563): note: see previous definition of 'glVertexAttrib4bv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1320): warning C4005: 'glVertexAttrib4d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3566): note: see previous definition of 'glVertexAttrib4d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1321): warning C4005: 'glVertexAttrib4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3569): note: see previous definition of 'glVertexAttrib4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1322): warning C4005: 'glVertexAttrib4f': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3572): note: see previous definition of 'glVertexAttrib4f'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1323): warning C4005: 'glVertexAttrib4fv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3575): note: see previous definition of 'glVertexAttrib4fv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1324): warning C4005: 'glVertexAttrib4iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3578): note: see previous definition of 'glVertexAttrib4iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1325): warning C4005: 'glVertexAttrib4s': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3581): note: see previous definition of 'glVertexAttrib4s'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1326): warning C4005: 'glVertexAttrib4sv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3584): note: see previous definition of 'glVertexAttrib4sv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1327): warning C4005: 'glVertexAttrib4ubv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3587): note: see previous definition of 'glVertexAttrib4ubv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1328): warning C4005: 'glVertexAttrib4uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3590): note: see previous definition of 'glVertexAttrib4uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1329): warning C4005: 'glVertexAttrib4usv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3593): note: see previous definition of 'glVertexAttrib4usv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1330): warning C4005: 'glVertexAttribBinding': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4703): note: see previous definition of 'glVertexAttribBinding'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1331): warning C4005: 'glVertexAttribDivisor': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4039): note: see previous definition of 'glVertexAttribDivisor'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1332): warning C4005: 'glVertexAttribFormat': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4694): note: see previous definition of 'glVertexAttribFormat'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1333): warning C4005: 'glVertexAttribI1i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3679): note: see previous definition of 'glVertexAttribI1i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1334): warning C4005: 'glVertexAttribI1iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3703): note: see previous definition of 'glVertexAttribI1iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1335): warning C4005: 'glVertexAttribI1ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3691): note: see previous definition of 'glVertexAttribI1ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1336): warning C4005: 'glVertexAttribI1uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3715): note: see previous definition of 'glVertexAttribI1uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1337): warning C4005: 'glVertexAttribI2i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3682): note: see previous definition of 'glVertexAttribI2i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1338): warning C4005: 'glVertexAttribI2iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3706): note: see previous definition of 'glVertexAttribI2iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1339): warning C4005: 'glVertexAttribI2ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3694): note: see previous definition of 'glVertexAttribI2ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1340): warning C4005: 'glVertexAttribI2uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3718): note: see previous definition of 'glVertexAttribI2uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1341): warning C4005: 'glVertexAttribI3i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3685): note: see previous definition of 'glVertexAttribI3i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1342): warning C4005: 'glVertexAttribI3iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3709): note: see previous definition of 'glVertexAttribI3iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1343): warning C4005: 'glVertexAttribI3ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3697): note: see previous definition of 'glVertexAttribI3ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1344): warning C4005: 'glVertexAttribI3uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3721): note: see previous definition of 'glVertexAttribI3uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1345): warning C4005: 'glVertexAttribI4bv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3727): note: see previous definition of 'glVertexAttribI4bv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1346): warning C4005: 'glVertexAttribI4i': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3688): note: see previous definition of 'glVertexAttribI4i'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1347): warning C4005: 'glVertexAttribI4iv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3712): note: see previous definition of 'glVertexAttribI4iv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1348): warning C4005: 'glVertexAttribI4sv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3730): note: see previous definition of 'glVertexAttribI4sv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1349): warning C4005: 'glVertexAttribI4ubv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3733): note: see previous definition of 'glVertexAttribI4ubv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1350): warning C4005: 'glVertexAttribI4ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3700): note: see previous definition of 'glVertexAttribI4ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1351): warning C4005: 'glVertexAttribI4uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3724): note: see previous definition of 'glVertexAttribI4uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1352): warning C4005: 'glVertexAttribI4usv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3736): note: see previous definition of 'glVertexAttribI4usv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1353): warning C4005: 'glVertexAttribIFormat': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4697): note: see previous definition of 'glVertexAttribIFormat'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1354): warning C4005: 'glVertexAttribIPointer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3670): note: see previous definition of 'glVertexAttribIPointer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1355): warning C4005: 'glVertexAttribL1d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4506): note: see previous definition of 'glVertexAttribL1d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1356): warning C4005: 'glVertexAttribL1dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4518): note: see previous definition of 'glVertexAttribL1dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1357): warning C4005: 'glVertexAttribL2d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4509): note: see previous definition of 'glVertexAttribL2d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1358): warning C4005: 'glVertexAttribL2dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4521): note: see previous definition of 'glVertexAttribL2dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1359): warning C4005: 'glVertexAttribL3d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4512): note: see previous definition of 'glVertexAttribL3d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1360): warning C4005: 'glVertexAttribL3dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4524): note: see previous definition of 'glVertexAttribL3dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1361): warning C4005: 'glVertexAttribL4d': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4515): note: see previous definition of 'glVertexAttribL4d'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1362): warning C4005: 'glVertexAttribL4dv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4527): note: see previous definition of 'glVertexAttribL4dv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1363): warning C4005: 'glVertexAttribLFormat': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4700): note: see previous definition of 'glVertexAttribLFormat'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1364): warning C4005: 'glVertexAttribLPointer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4530): note: see previous definition of 'glVertexAttribLPointer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1365): warning C4005: 'glVertexAttribP1ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4042): note: see previous definition of 'glVertexAttribP1ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1366): warning C4005: 'glVertexAttribP1uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4045): note: see previous definition of 'glVertexAttribP1uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1367): warning C4005: 'glVertexAttribP2ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4048): note: see previous definition of 'glVertexAttribP2ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1368): warning C4005: 'glVertexAttribP2uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4051): note: see previous definition of 'glVertexAttribP2uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1369): warning C4005: 'glVertexAttribP3ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4054): note: see previous definition of 'glVertexAttribP3ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1370): warning C4005: 'glVertexAttribP3uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4057): note: see previous definition of 'glVertexAttribP3uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1371): warning C4005: 'glVertexAttribP4ui': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4060): note: see previous definition of 'glVertexAttribP4ui'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1372): warning C4005: 'glVertexAttribP4uiv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4063): note: see previous definition of 'glVertexAttribP4uiv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1373): warning C4005: 'glVertexAttribPointer': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3596): note: see previous definition of 'glVertexAttribPointer'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1374): warning C4005: 'glVertexBindingDivisor': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4706): note: see previous definition of 'glVertexBindingDivisor'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1375): warning C4005: 'glViewport': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(2081): note: see previous definition of 'glViewport'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1376): warning C4005: 'glViewportArrayv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4536): note: see previous definition of 'glViewportArrayv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1377): warning C4005: 'glViewportIndexedf': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4539): note: see previous definition of 'glViewportIndexedf'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1378): warning C4005: 'glViewportIndexedfv': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(4542): note: see previous definition of 'glViewportIndexedfv'
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\gl3w\gl3w.h(1379): warning C4005: 'glWaitSync': macro redefinition
+1>c:\users\mahmoud\documents\github\mana3dengine\mana3dengine\mana3dengine\libraries\include\glad\glad.h(3948): note: see previous definition of 'glWaitSync'
+1>MCube.cpp
+1>MeshRenderer.cpp
+1>Model3DImporter.cpp
+1>MPrimitive.cpp
+1>MRectangle.cpp
+1>PointLight.cpp
+1>Renderer.cpp
+1>SpotLight.cpp
+1>Transform.cpp
+1>Generating Code...
+1>MANA3DEngine.vcxproj -> C:\Users\Mahmoud\Documents\GitHub\mana3dengine\MANA3DEngine\Debug\MANA3DEngine.exe
+1>Done building project "MANA3DEngine.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
